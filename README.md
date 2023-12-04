@@ -9,3 +9,6 @@ The tower of hanoi is a mathematical puzzle where we have three rods (A, B, and 
 * No disk may be placed on top of a smaller disk.
 
 The output of this program will be the moves made to arrange the N disks in descending order of size on rod C.
+
+The expected values are the Geeksforgeeks algorithm for this problem:
+https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi-2/
